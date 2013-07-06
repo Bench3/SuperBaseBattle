@@ -20,11 +20,14 @@ Lead Developer: <b>Ben Churchill</b>
            - benchmineplex@gmail.com
            - benchurchill51@gmail.com
            - ben@thebcbroz.com
+           </p>
+           <p>
     Jake Bambrough
         -Minecraft Username: Suntajai
         -YouTube: www.YouTube.com/Stuntajai
         -Twitter: www.Twitter.com/Suntajai
         -Email/s:
            - jebambrough@gmail.com
+           </p>
 
 
