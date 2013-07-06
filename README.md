@@ -9,6 +9,8 @@ This is the development for the plugin SuperBaseBattle, for the owners and playe
 Lead Developer: Ben Churchill
 -----------------------------
 
+===============
+
 Developers: Ben Churchill<br>
     -Minecraft Username: BenchCubed | Bench3 | TheBCBroz        <br>
     -YouTube: www.YouTube.com/TheBCBroz                             <br>
