@@ -5,9 +5,7 @@ This is the development for the plugin SuperBaseBattle, for the owners and playe
 
 ===============
 
------------------------------
 Lead Developer: Ben Churchill
------------------------------
 
 ===============
 
