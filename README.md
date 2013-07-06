@@ -26,6 +26,5 @@ Lead Developer: <b>Ben Churchill</b>
         -Twitter: www.Twitter.com/Suntajai
         -Email/s:
            - jebambrough@gmail.com
-           </p>
 
 
