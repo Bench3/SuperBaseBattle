@@ -1,5 +1,7 @@
 package com.minercore.creeperwood.benchcubed.stuntajai.SuperBaseBattle;
 
+import org.bukkit.command.Command;
+import org.bukkit.command.CommandSender;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**
@@ -11,5 +13,15 @@ import org.bukkit.plugin.java.JavaPlugin;
  */
 public class SuperBaseBattle extends JavaPlugin {
 
+    public static void main(String[] args){
+        // Not Used
+    }
 
+    public void onEnable() {
+        this.getLogger().info(getDescription().getName() + " Has Been Enabled!");
+    }
+
+    public void onDisable() {
+        this.getLogger().info(getDescription().getName() + " Has Been Disabled!");
+    }
 }
