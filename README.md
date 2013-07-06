@@ -12,7 +12,7 @@ Lead Developer: Ben Churchill
 ===============
 
 Developers: Ben Churchill<br>
-    -Minecraft Username: BenchCubed | Bench3 | TheBCBroz        <br>
+    -<b><u>Minecraft Username:</b></u> BenchCubed | Bench3 | TheBCBroz        <br>
     -YouTube: www.YouTube.com/TheBCBroz                             <br>
     -Twitter: www.Twitter.com/TheBCBroz                                 <br>
     -Email/s:                                                               <br>
