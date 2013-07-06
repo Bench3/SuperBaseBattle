@@ -9,14 +9,14 @@ This is the development for the plugin SuperBaseBattle, for the owners and playe
 Lead Developer: Ben Churchill
 -----------------------------
 
-Developers: Ben Churchill
-    -Minecraft Username: BenchCubed | Bench3 | TheBCBroz
-    -YouTube: www.YouTube.com/TheBCBroz
-    -Twitter: www.Twitter.com/TheBCBroz
-    -Email/s:
-        - benchurchill@ntlworld.com
-        - contact@thebcbroz.com
-        - benchmineplex@gmail.com
-        - benchurchill51@gmail.com
-        - ben@thebcbroz.com
+Developers: Ben Churchill<br>
+    -Minecraft Username: BenchCubed | Bench3 | TheBCBroz        <br>
+    -YouTube: www.YouTube.com/TheBCBroz                             <br>
+    -Twitter: www.Twitter.com/TheBCBroz                                 <br>
+    -Email/s:                                                               <br>
+        - benchurchill@ntlworld.com                                             <br>
+        - contact@thebcbroz.com                                                     <br>
+        - benchmineplex@gmail.com                                                       <br>
+        - benchurchill51@gmail.com                                                          <br>
+        - ben@thebcbroz.com                                                                     <br>
 
