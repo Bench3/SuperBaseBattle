@@ -4,7 +4,7 @@ SuperBaseBattle
 This is the development for the plugin SuperBaseBattle, for the owners and players of http://www.creeperwood.com
 
 -----------------------------
-Lead Developer: Ben Churchill
+Lead Developer: <b>Ben Churchill</b>
 -----------------------------
 
 
