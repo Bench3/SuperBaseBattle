@@ -15,13 +15,13 @@ Lead Developer: Ben Churchill
 -------------------------
     Ben Churchill
 -------------------------
-        -<b>Minecraft Username:</b> BenchCubed | Bench3 | TheBCBroz<br>
-        -<b>YouTube:</b> www.YouTube.com/TheBCBroz<br>
-        -<b>Twitter:</b> www.Twitter.com/TheBCBroz<br>
-        -<b>Email/s:</b><br>
-           - benchurchill@ntlworld.com<br>
-           - contact@thebcbroz.com<br>
-           - benchmineplex@gmail.com<br>
-           - benchurchill51@gmail.com<br>
-           - ben@thebcbroz.com<br>
+        -Minecraft Username: BenchCubed | Bench3 | TheBCBroz
+        -YouTube: www.YouTube.com/TheBCBroz
+        -Twitter: www.Twitter.com/TheBCBroz
+        -Email/s:
+           - benchurchill@ntlworld.com
+           - contact@thebcbroz.com
+           - benchmineplex@gmail.com
+           - benchurchill51@gmail.com
+           - ben@thebcbroz.com
 
