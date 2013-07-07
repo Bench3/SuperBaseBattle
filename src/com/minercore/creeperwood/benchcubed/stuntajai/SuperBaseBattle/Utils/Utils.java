@@ -1,9 +1,13 @@
 package com.minercore.creeperwood.benchcubed.stuntajai.SuperBaseBattle.Utils;
 
+import com.minercore.creeperwood.benchcubed.stuntajai.SuperBaseBattle.Arena;
+import com.minercore.creeperwood.benchcubed.stuntajai.SuperBaseBattle.SuperBaseBattle;
 import org.bukkit.Color;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.LeatherArmorMeta;
+
+import java.util.Random;
 
 /**
  * User: Ben
@@ -21,5 +25,16 @@ public class Utils {
 
 	public static void clearInventory(Player player) {
 		player.getInventory().clear();
+	}
+
+	public static Arena getArena(int id) {
+		for (Arena a : SuperBaseBattle.arenaList)
+			if (a.getArenaId() == id)
+				return a;
+		return null;
+	}
+
+	public static boolean rand() {
+		return new Random().nextBoolean();
 	}
 }

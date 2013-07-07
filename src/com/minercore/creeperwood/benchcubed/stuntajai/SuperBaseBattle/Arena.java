@@ -4,9 +4,13 @@ import com.minercore.creeperwood.benchcubed.stuntajai.SuperBaseBattle.Utils.Supe
 import com.minercore.creeperwood.benchcubed.stuntajai.SuperBaseBattle.enums.Team;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
+import org.bukkit.Material;
 import org.bukkit.entity.Player;
 
 import java.util.ArrayList;
+
+import static com.minercore.creeperwood.benchcubed.stuntajai.SuperBaseBattle.SuperBaseBattle.spawnWorld;
+import static com.minercore.creeperwood.benchcubed.stuntajai.SuperBaseBattle.Utils.Utils.rand;
 
 
 /**
@@ -53,6 +57,25 @@ public class Arena {
 		for (String s : playersInGame)
 			if (!Locations.teleportToSpawn(Bukkit.getPlayer(s))) failure = true;
 		return !failure;
+	}
+
+	public void startGame() {
+		generateWall();
+	}
+
+	private void generateWall() {
+		int wallX = (minX + maxX) / 2;
+		Location wallStart = new Location(spawnWorld, wallX, 0, minZ);
+		Location wallEnd = new Location(spawnWorld, wallX, spawnWorld.getMaxHeight(), maxZ);
+		int startX = wallStart.getBlockX();
+		int endX = wallEnd.getBlockX();
+		int startZ = wallStart.getBlockZ();
+		int endZ = wallEnd.getBlockZ();
+
+		for (int x = startX; x < endX; x++)
+			for (int y = wallStart.getBlockY(); y < wallEnd.getBlockY(); y++)
+				for (int z = startZ; z < endZ; z++)
+					spawnWorld.getBlockAt(x, y, z).setType(rand() ? Material.BEDROCK : rand() ? Material.GLOWSTONE : rand() ? Material.STONE : rand() ? Material.NETHER_BRICK : rand() ? Material.DIAMOND_BLOCK : Material.IRON_BLOCK);
 	}
 
 	public int getMinX() {
